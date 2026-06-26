@@ -1,4 +1,5 @@
 # Advanced Machine Learning — Course Project
+# Detecting AI-Generated Text
 
 This folder contains Jupyter Notebooks for experiments and analysis on distinguishing human-written texts from AI-generated texts.
 
