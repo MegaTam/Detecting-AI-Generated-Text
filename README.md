@@ -71,3 +71,7 @@ Notes:
 - The run scripts use `jupyter nbconvert --execute` to run notebooks non-interactively and save executed copies under the `executed/` folder.
 - Running the notebooks may take time and may require additional system resources (RAM/GPU) depending on model choices.
 
+---
+
+*This project is a CUHKSZ-DDA4210 course assignment.*
+
